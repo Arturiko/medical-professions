@@ -1,146 +1,146 @@
 [
   {
-  "engName": "Audiologist",
-   "hebName": "אודיולוג"
+	"engName": "Audiologist",
+	"hebName": "אודיולוג"
   },
   {
-  "engName": "Allergist",
-  "hebName": "מומחה לאלרגיות"
+	"engName": "Allergist",
+	"hebName": "מומחה לאלרגיות"
   },
   {
-  "engName": "Andrologists",
-  "hebName": "אנדרולוג"
+	"engName": "Andrologists",
+  	"hebName": "אנדרולוג"
   },
   {
-  "engName": "Anesthesiologist",
+	"engName": "Anesthesiologist",
 	"hebName": "מרדים"
   },
   {
-  "engName": "Cardiologist",
+  	"engName": "Cardiologist",
 	"hebName": "קרדיולוג"
   },
   {
-  "engName": "Cardiovascular Surgeon",
+	"engName": "Cardiovascular Surgeon",
 	"hebName": "מנתח לב"
   },
   {
-  "engName": "Clinical Neurophysiologist",
+  	"engName": "Clinical Neurophysiologist",
 	"hebName": "נוירופיזיולוג קליני"
   },
   {
-  "engName": "Dentist",
+  	"engName": "Dentist",
 	"hebName": "רופא שיניים"
   },
   {
-  "engName": "Dermatologist",
+  	"engName": "Dermatologist",
 	"hebName": "דרמטולוג"
   },
   {
-  "engName": "Endocrinologist",
+  	"engName": "Endocrinologist",
 	"hebName": "אנדוקרינולוג"
   },
   {
-  "engName": "Epidemiologists",
+  	"engName": "Epidemiologists",
 	"hebName": "אפידמיולוג"
   },
   {
-  "engName": "ENT Specialist",
+  	"engName": "ENT Specialist",
 	"hebName": "מומחה אף אוזן גרון"
   },
   {
-  "engName": "Family Practitioner",
+  	"engName": "Family Practitioner",
 	"hebName": "רופא משפחה"
   },
   {
-  "engName": "Gastroenterologist",
+  	"engName": "Gastroenterologist",
 	"hebName": "גסטרואנטרולוג"
   },
   {
-  "engName": "Gynecologist",
+  	"engName": "Gynecologist",
 	"hebName": "גניקולוג"
   },
   {
-  "engName": "Hematologist",
+  	"engName": "Hematologist",
 	"hebName": "המטולוג"
   },
   {
-  "engName": "Internists",
+  	"engName": "Internists",
 	"hebName": "פנימאי"
   },
   {
-  "engName": "Microbiologist",
+  	"engName": "Microbiologist",
 	"hebName": "מיקרוביולוג"
   },
   {
-  "engName": "Neonatologist",
+  	"engName": "Neonatologist",
 	"hebName": "רופא פגים"
   },
   {
-  "engName": "Nephrologists",
+  	"engName": "Nephrologists",
 	"hebName": "נפרולוג"
   },
   {
-  "engName": "Neurologist",
+  	"engName": "Neurologist",
 	"hebName": "ניורולוג"
   },
   {
-  "engName": "Neurosurgeons",
+  	"engName": "Neurosurgeons",
 	"hebName": "נוירוכירורג"
   },
   {
-  "engName": "Obstetrician",
+	"engName": "Obstetrician",
 	"hebName": "מיילדת"
   },
   {
-  "engName": "Oncologist",
+  	"engName": "Oncologist",
 	"hebName": "אונקולוג"
   },
   {
-  "engName": "Ophthalmologist",
+  	"engName": "Ophthalmologist",
 	"hebName": "רופא עיניים"
   },
   {
-  "engName": "Parasitologist",
+  	"engName": "Parasitologist",
 	"hebName": "רופא טפילים"
   },
   {
-  "engName": "Pathologists",
+  	"engName": "Pathologists",
 	"hebName": "פתולוג"
   },
   {
-  "engName": "Physiologists",
+  	"engName": "Physiologists",
 	"hebName": "פיזיולוג"
   },
   {
-  "engName": "Physiatrist",
+  	"engName": "Physiatrist",
 	"hebName": "פיזיותרפיסט"
   },
   {
-  "engName": "Podiatrists",
+  	"engName": "Podiatrists",
 	"hebName": "רופא רגליים"
   },
   {
-  "engName": "Psychiatrists",
+  	"engName": "Psychiatrists",
 	"hebName": "פסיכיאטר"
   },
   {
-  "engName": "Pulmonologist",
+  	"engName": "Pulmonologist",
 	"hebName": "מומחה לריאות"
   },
   {
-  "engName": "Radiologists",
+  	"engName": "Radiologists",
 	"hebName": "רדיולוג"
   },
   {
-  "engName": "Rheumatologist",
+  	"engName": "Rheumatologist",
 	"hebName": "ראומטולוג"
   },
   {
-  "engName": "Surgeon",
+  	"engName": "Surgeon",
 	"hebName": "מנתח"
   },
   {
-  "engName": "Urologist",
+  	"engName": "Urologist",
 	"hebName": "אורולוג"
   }
 ]
