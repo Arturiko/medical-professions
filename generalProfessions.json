@@ -1,18 +1,18 @@
 [
   {
-    "engName": "Plumber"
-	"hebName": "אינסטלטור",
+    "engName": "Plumber",
+	"hebName": "אינסטלטור"
   },
     {
-    "engName": "whitewasher"
-	"hebName": "שיפוצניק",
+    "engName": "whitewasher",
+	"hebName": "שיפוצניק"
   },
     {
-    "engName": "TV technician"
-	"hebName": "טכנאיי טלויזיה",
+    "engName": "TV technician",
+	"hebName": "טכנאיי טלויזיה"
   },
     {
-    "engName": "Washer technician"
-	"hebName": "טכני מכונות כביסה",
+    "engName": "Washer technician",
+	"hebName": "טכני מכונות כביסה"
   }
 ]
